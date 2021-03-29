@@ -7,6 +7,8 @@ Clone and install:
  git clone git@github.com:mauricio-masias/mvf.git
  cd mvf
  composer install
+ mv .env.example .env
+ nano .env <-- add Github token here
 ```
 
     |--------------------------------------------------------------------------
